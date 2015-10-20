@@ -8,4 +8,5 @@ code sample), and help each other. I hope that we can create something as *aweso
 as this pages : [awesome courses](https://github.com/prakhar1989/awesome-courses), 
 [awesome](https://github.com/sindresorhus/awesome), [linux-insides](https://github.com/0xAX/linux-insides).  
 
-Everybody can contribute and improve this project. 
+Everybody can contribute and improve this project. If you want to contribute, please
+read the [CONTRIBUGING.md](https://github.com/Nairolf21/awesome-TB/blob/master/CONTRIBUTING.md) file. 
