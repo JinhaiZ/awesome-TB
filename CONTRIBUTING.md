@@ -25,7 +25,7 @@ You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-f
 	` git clone git@github.com:your_github_username/awesome-TB.git`
 * Create branch with : 
 	` git checkout -b subject_of_my_edit`
-* Make your changes. ([Learn how to use Git](https://github.com/Nairolf21/awesome-TB/blob/master/CONTRIBUTING.md#learn-how-to-use-Git)
+* Make your changes. ([Learn how to use Git](https://github.com/Nairolf21/awesome-TB/blob/master/CONTRIBUTING.md#learn-how-to-use-Git))
 * Say why you're proposing the changes, and then click on "Propose file change"
 * Submit the pull request
 
@@ -36,14 +36,14 @@ It should be great to learn how to use it. Firstly, because it's one of the best
 You'll probably use it in the professionnal world, and then, you can find a lot of ressources 
 to learn how to use it. These are one of the best ressources to learn Git : 
 
-* [Openclassroom](https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github)(French)
+* [Openclassroom](https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github) - French tutorial with videos
 * [Pro Git](http://git-scm.com/book/en/v2) - free Git book (CC BY-NC-SA 3.0)
 * [Try Git](https://try.github.io/levels/1/challenges/1) - learn Git in 15 minutes with pseudo-terminal interface
 * [Comparing Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows) - How to work efficiently with Git
 
 Feel free to open issues on Github if you want more advices about Git
 
-## 3. Learn how to write with Markdown
+## 3. Learn how to write in Markdown
 Github use the [Markdown](https://help.github.com/articles/github-flavored-markdown/)
 It's easy to master this syntax. You can read the [wikipedia page](https://en.wikipedia.org/wiki/Markdown) 
 to learn the syntax. You can also use some online editors to display the content before 
