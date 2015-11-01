@@ -19,5 +19,19 @@ file.
 * Tutorials and external ressources
 * Technology watch
 
-Please, read this [summary](https://github.com/Nairolf21/awesome-TB/blob/master/SUMMARY.md) to find
+Please, read this [summary](https://github.com/Nairolf21/awesome-TB/blob/master/SUMMARY.md) to find 
 what you're loooking for. 
+
+## Why are you doing this ? 
+
+The third and final year at TB isn't really fair. Some of us have made internships last year, others 
+were in 2nd year. We have followed different majors and minors courses. So, we don't have the same
+knowledge. Some of us are better in C/C++, others are better in Java or Python. Don't you think 
+that we can help each other ? Teachers usually do not give any corrections. I think it would be 
+great if we use Awesome-TB to share corrections, and our knowledge. 
+
+So, awesome-TB has been created because...
+
+* We do not have corrections
+* We do not have the same experience
+* It's easier to become better together than alone
