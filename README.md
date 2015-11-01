@@ -8,10 +8,6 @@ as this pages : [awesome courses](https://github.com/prakhar1989/awesome-courses
 [awesome](https://github.com/sindresorhus/awesome), 
 [linux-insides](https://github.com/0xAX/linux-insides).  
 
-Everybody can contribute and improve this project. If you want to contribute, please
-read the [CONTRIBUGING.md](https://github.com/Nairolf21/awesome-TB/blob/master/CONTRIBUTING.md) 
-file. 
-
 ## What we can find here ? 
 
 * Correction of exercices
@@ -35,6 +31,21 @@ So, awesome-TB has been created because...
 * We do not have corrections
 * We do not have the same experience
 * It's easier to become better together than alone
+
+## I want to help you, what can I do ? 
+
+Everybody can contribute and improve this project. It's obvious that awesome-TB will be really
+awesome only if a lot of students help to build something great ! What can you do to help ? 
+
+* You can improve the english used
+* You're an expert in a language ? Help us to learn this language 
+* Help us to update and improve corrections of exercices
+* Feel free to open [issue](https://help.github.com/articles/creating-an-issue/) in order to ask 
+for something or if you don't understand a source code for example
+
+If you want to contribute, please read the 
+[how to contribute](https://github.com/Nairolf21/awesome-TB/blob/master/CONTRIBUTING.md) 
+page. 
 
 ## Everything is public, it is not risky ? What happens if TB doesn't like this page ? 
 
