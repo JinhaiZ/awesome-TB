@@ -12,7 +12,9 @@ read the [CONTRIBUGING.md](https://github.com/Nairolf21/awesome-TB/blob/master/C
 
 ## What we can find here ? 
 
-* [Source code of exercices](https://github.com/Nairolf21/awesome-TB/tree/master/F2B101A/TP1-Sockets/)
-* [Courses notes](https://github.com/Nairolf21/awesome-TB/blob/master/F2B101A/distributed_systems.markdown)
+* Correction of exercices
+* Courses notes
 * Tutorials and external ressources
 * Technology watch
+
+Please, read this [summary](https://github.com/Nairolf21/awesome-TB/blob/master/SUMMARY.md) to find what you're loooking for. 
