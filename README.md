@@ -50,13 +50,13 @@ If you want to contribute, please read the
 [how to contribute](https://github.com/Nairolf21/awesome-TB/blob/master/CONTRIBUTING.md) 
 page. 
 
-## Everything is public, it is not risky ? What happens if TB doesn't like this page ? 
+## What happens if TB doesn't like this page ?
 
-There is two different results. Either nobody cares about this page, and nobody wants to be 
-involved in this project. If it's the case, nobody will see what I'm doing on Github. I will 
-certainly continue to write things I learn on Github, for myself, and school will not care 
-so much. Either you are interested by *sharing knowledge* and *help each other*. In this case, 
-maybe I will give the project private, or, maybe, we can migrate to another platform, as 
-[Gitlab](https://about.gitlab.com/) and ask resel to install one instance in servers. 
+Everything is public, it is not risky ? There is two different answers. Either nobody cares about 
+this page, and nobody wants to be involved in this project. If it's the case, nobody will see 
+what I'm doing on Github. I will certainly continue to write things I learn on Github, for myself, 
+and school will not care so much. Either you are interested by *sharing knowledge* and *help each 
+other*. In this case, maybe I will give the project private, or, maybe, we can migrate to another 
+platform, as [Gitlab](https://about.gitlab.com/) and ask resel to install one instance in servers. 
 
 So, don't worry ;)
