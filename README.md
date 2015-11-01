@@ -10,6 +10,9 @@ as this pages : [awesome courses](https://github.com/prakhar1989/awesome-courses
 
 ## What we can find here ? 
 
+Because Awesome-TB is a collaborative project, we can find here what *you* want to find here. 
+Any suggestions is welcomed. This is what I think we can find here, for now : 
+
 * Correction of exercices
 * Courses notes
 * Tutorials and external ressources
