@@ -1,12 +1,12 @@
 # Paradigms and distributed systems
 
-## Summary
+### 1. Courses notes
 
-1. Source code of exercices
-2. Courses notes
-2. Ressources
+1. [Corba](https://github.com/Nairolf21/awesome-TB/blob/master/F2B101A/corba.md) - 19 Octobre
+2. [Big Data](https://github.com/Nairolf21/awesome-TB/blob/master/F2B101A/big_data.md) - 20 Octobre
+3. [Storage and Processing](https://github.com/Nairolf21/awesome-TB/blob/master/F2B101A/storage_and_processing.md) - 2 Novembre
 
-### 1. Source code of exercices
+### 2. Source code of exercices
 
 1. [TP1-Sockets](https://github.com/Nairolf21/awesome-TB/tree/master/F2B101A/TP1-Sockets)
 2. TP2-Client/Serveur
