@@ -60,9 +60,9 @@ control the software compilation process using simple platform and compiler inde
 List of CS online courses that you can start. Feel free to give feedbacks. 
 
 * [Open Source Society - Computer Science](https://github.com/open-source-society/computer-science) - 
-Path to a free self-taught education in Computer Science! 
+Path to a free self-taught education in Computer Science ! 
 * [155 free MOOCs of Class Central](https://www.reddit.com/r/learnprogramming/comments/3n3tdz/heres_a_list_of_155_free_online_programmingcs/) - 
 Reddit link to a great list
 * [Programming by Doing](http://programmingbydoing.com/) - Learn Java with exercices
-* [Awesome Courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science! 
-* [Learn X in Y minutes](http://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
+* [Awesome Courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science ! 
+* [Learn X in Y minutes](http://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven !
